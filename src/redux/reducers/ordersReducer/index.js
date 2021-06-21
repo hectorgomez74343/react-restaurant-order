@@ -9,7 +9,7 @@ const INTIAL_STATE = {
       name: "Nicholas",
       lastName: "Tesla",
       time: date.toString(),
-      type: "iPad 11th Generation 16GB",
+      type: "$5 Large Pepperoni Pizza",
       phoneNumber: "202-000-3949",
       address: "232 A St Austin Texas 29292",
       email: "nickolas@gmail.com",
